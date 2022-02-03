@@ -1,0 +1,23 @@
+html {
+		padding: 0px;
+		margin: 10px;
+		}
+body {
+				font-family: serif;
+				background-image:linear-gradient( #94EFB4 , #5f9b4e);
+				background-size: cover;
+				background-attachment: fixed;
+				background-repeat: no-repeat;
+				font-size: 1.1em;
+				text-align: center;
+				margin: auto;
+				margin-top: 100px;
+				color: #492527;
+												}
+a {
+				color: #4c5b7b;
+				text-decoration: none;
+							}												
+
+a:hover {color: #abb2c8}
+
